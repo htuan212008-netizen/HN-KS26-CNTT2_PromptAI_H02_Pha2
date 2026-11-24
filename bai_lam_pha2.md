@@ -2,7 +2,7 @@
 
 - **Họ tên:** Hồ Anh Tuấn
 - **Lớp:** CNTT2
-- **Link repository Pha2:**
+- **Link repository Pha2:** https://github.com/htuan212008-netizen/HN-KS26-CNTT2_PromptAI_H02_Pha2
 - **Công cụ AI đã dùng (ChatGPT/Claude/Gemini):** Gemini
 
 > Pha 2 (20 phút cuối). Mỗi mục: mở cuộc trò chuyện mới, gửi nguyên văn prompt đã viết trong bai_lam_pha1.md, dán câu trả lời và link chia sẻ vào đây. Xong, kéo thả file này vào repository Pha2.
